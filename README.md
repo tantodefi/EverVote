@@ -54,7 +54,7 @@ npm run test
 
 ### Deployed Contract (Testnet)
 
-Sepolia: contract address `0x48b7720547c11251a8abe5a1c7d0c791500f5a3b` [view on explorer](https://sepolia.etherscan.io/address/0x48b7720547c11251a8abe5a1c7d0c791500f5a3b)
+Sepolia: contract address `0x4E6Bab4961Ab53D70745E791FA727993A4221d1F` [view on explorer](https://explorer.execution.testnet.lukso.network/address/0x4E6Bab4961Ab53D70745E791FA727993A4221d1F)
 
 We will be adding more networks soon.
 
