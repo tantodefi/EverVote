@@ -45,7 +45,7 @@ Reduced Costs: By eliminating the need for physical polling stations and paper b
 ### Getting Started
 
 ```
-git clone [Repo URL]
+git clone https://github.com/tantodefi/EverVote
 cd evervote
 npm run test
 ```
